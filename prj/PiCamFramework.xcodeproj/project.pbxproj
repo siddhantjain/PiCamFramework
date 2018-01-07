@@ -524,6 +524,7 @@
 					../build/Debug,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SYMROOT = ../build;
 			};
 			name = Debug;
 		};
@@ -537,6 +538,7 @@
 					../build/Release,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SYMROOT = ../build;
 			};
 			name = Release;
 		};
