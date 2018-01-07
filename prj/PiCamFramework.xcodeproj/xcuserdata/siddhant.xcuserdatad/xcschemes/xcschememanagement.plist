@@ -9,7 +9,7 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>PiCamMacApp.xcscheme</key>
+		<key>PiCamMacCLApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
@@ -17,6 +17,16 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>351FD2A420004A65006AA7E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>351FD39920006120006AA7E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>3533088120001F69006FCCE4</key>
 		<dict>
 			<key>primary</key>
